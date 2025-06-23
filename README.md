@@ -5,6 +5,7 @@
 I created this repository after completing my TypeScript learning journey and preparing for interviews. It includes questions, concepts, and real-time examples — suitable for beginners to advanced level.
 
 ## 📘 Table of Contents
+- [TypeScript Notes](./TypeScript Notes.docx)
 - [Basics](./beginner.md)
 - [Advanced Concepts](./advanced.md)
 - [Real-time Scenarios](./real-time-examples.md)
